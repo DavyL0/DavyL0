@@ -1,8 +1,8 @@
-### Eai?  Eu sou Davy Lopes! 👋
+## Eai?  Eu sou Davy Lopes! 👋
 
 ![DavyL0 GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyL0&show_icons=true&theme=dark)
 
-###Linguagens Conhecidas 
+### Linguagens Conhecidas 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,4 +15,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d4vyl0pes@gmail.com?subject=&body=)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davy-lopes-b0491025a/)
+
+### Apenas um desenvolvedor, apaixonado por software!
 
